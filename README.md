@@ -1,0 +1,2 @@
+# github-actions-php-test
+[![Build Status](https://github.com/yudhatamaaditiyara/github-actions-php-test/workflows/test/badge.svg?branch=master)](https://github.com/yudhatamaaditiyara/github-actions-php-test/actions)
