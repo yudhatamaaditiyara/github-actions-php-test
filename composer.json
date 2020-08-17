@@ -1,0 +1,19 @@
+{
+  "name": "yudhatamaaditiyara/github-actions-php-test",
+  "description": "yudhatamaaditiyara/github-actions-php-test",
+  "require-dev": {
+    "phpunit/phpunit": "^8.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Test\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit -c test/phpunit.config.xml"
+  },
+  "config": {
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
+}
